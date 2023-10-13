@@ -14,12 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="SADPERWEB_ServColab.Shared">
-      <HintPath>..\..\..\SERVICIOS_COLABORADOR\SADPERWEB_ServColab version Beta1.0m\SADPERWEB_ServColab\SADPERWEB_ServColab\Shared\bin\Debug\net7.0\SADPERWEB_ServColab.Shared.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
-  <ItemGroup>
     <Content Update="appsettings.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
